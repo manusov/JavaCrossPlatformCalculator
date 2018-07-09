@@ -4,7 +4,7 @@ package calculator.view.about;
 
 public class About 
 {
-private final static String VERSION_NAME = "v0.34";
+private final static String VERSION_NAME = "v0.35";
 private final static String VENDOR_NAME  = "(C)2018 IC Book Labs";
 private final static String SHORT_NAME   = "Calculator " + VERSION_NAME;
 private final static String LONG_NAME    = "Java " + SHORT_NAME;
