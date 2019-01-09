@@ -1,5 +1,9 @@
-// Application frame with root menu,
-// supports calculator mode changing: simple, scientific, programmer.
+/*
+
+Application frame with root menu,
+supports calculator mode changing: simple, scientific, programmer.
+
+*/
 
 package calculator.view.rootmenu;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCTH" button.
+/*
+
+Button and operation description class for "ARCTH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

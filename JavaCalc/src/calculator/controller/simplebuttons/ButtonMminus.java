@@ -1,4 +1,8 @@
-// Button and operation description class for "M-" (Memory minus) button.
+/*
+
+Button and operation description class for "M-" (Memory minus) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

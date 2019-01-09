@@ -1,4 +1,8 @@
-// Return window for "About" user interface object.
+/*
+
+Return window for "About" user interface object.
+
+*/
 
 package calculator.view.about;
 

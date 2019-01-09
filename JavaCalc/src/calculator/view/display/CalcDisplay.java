@@ -1,5 +1,9 @@
-// GUI panel and it components for SIMPLE calculator display.
-// This is also parent class for SCIENTIFIC and PROGRAMMER calc. displays.
+/*
+
+GUI panel and it components for SIMPLE calculator display.
+This is also parent class for SCIENTIFIC and PROGRAMMER calc. displays.
+
+*/
 
 package calculator.view.display;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "CE" (Clear error input) button.
+/*
+
+Button and operation description class for "CE" (Clear error input) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

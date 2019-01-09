@@ -1,4 +1,8 @@
-// GUI panel and it components for PROGRAMMER calculator display.
+/*
+
+GUI panel and it components for PROGRAMMER calculator display.
+
+*/
 
 package calculator.view.display;
 

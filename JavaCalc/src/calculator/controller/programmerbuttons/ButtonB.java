@@ -1,4 +1,8 @@
-// Button and operation description class for "B" hex digit button.
+/*
+
+Button and operation description class for "B" hex digit button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

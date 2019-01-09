@@ -1,4 +1,8 @@
-// Button and operation description class for "XOR" button.
+/*
+
+Button and operation description class for "XOR" button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

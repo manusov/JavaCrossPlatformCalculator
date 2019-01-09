@@ -1,6 +1,10 @@
-// Action listener and events routing class for calculator buttons clicks.
-// This class for handling calculator buttons press and 
-// select appropriate handler in the Button<name> classes.
+/*
+
+Action listener and events routing class for calculator buttons clicks.
+This class for handling calculator buttons press and 
+select appropriate handler in the Button<name> classes.
+
+*/
 
 package calculator.controller;
 

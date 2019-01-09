@@ -1,4 +1,8 @@
-// Button and operation description class for "SIN" button.
+/*
+
+Button and operation description class for "SIN" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

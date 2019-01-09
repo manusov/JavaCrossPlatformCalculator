@@ -1,4 +1,8 @@
-// Button and operation description class for "*" (Multiply) button.
+/*
+
+Button and operation description class for "*" (Multiply) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

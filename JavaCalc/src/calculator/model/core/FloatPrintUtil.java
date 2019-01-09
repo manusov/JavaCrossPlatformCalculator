@@ -1,9 +1,12 @@
-// Helper class for convert floating-point numbers to strings.
+/*
 
-// note for show numbers with periods, example 28/3
-// delete extra right zeroes, example
-// 1.0 must not changed
-// 1.00 must be changed to 1.0
+Helper class for convert floating-point numbers to strings.
+Note for show numbers with periods, example 28/3
+delete extra right zeroes, example
+1.0 must not changed
+1.00 must be changed to 1.0
+
+*/
 
 package calculator.model.core;
 

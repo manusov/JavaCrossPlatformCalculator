@@ -1,4 +1,8 @@
-// Button and operation description class for "ARTH" button.
+/*
+
+Button and operation description class for "ARTH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

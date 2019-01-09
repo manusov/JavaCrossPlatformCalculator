@@ -1,8 +1,11 @@
-// Action handler for root menu: info about application.
+/*
+
+Action handler for root menu: info about application.
+
+*/
 
 package calculator.view.rootmenu;
 
-import calculator.view.about.About;
 import calculator.view.about.BuildAbout;
 import java.awt.event.ActionEvent;
 import javax.swing.AbstractAction;

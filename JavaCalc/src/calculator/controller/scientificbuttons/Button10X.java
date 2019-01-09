@@ -1,4 +1,8 @@
-// Button and operation description class for "10 power X" button.
+/*
+
+Button and operation description class for "10 power X" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

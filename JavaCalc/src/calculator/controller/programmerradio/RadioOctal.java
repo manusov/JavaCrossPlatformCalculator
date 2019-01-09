@@ -1,4 +1,8 @@
-// Radio button description class for "Octal" radio button.
+/*
+
+Radio button description class for "Octal" radio button.
+
+*/
 
 package calculator.controller.programmerradio;
 

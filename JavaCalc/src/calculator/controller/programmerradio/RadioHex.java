@@ -1,4 +1,8 @@
-// Radio button description class for "Hex" radio button.
+/*
+
+Radio button description class for "Hex" radio button.
+
+*/
 
 package calculator.controller.programmerradio;
 

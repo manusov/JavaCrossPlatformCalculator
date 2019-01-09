@@ -1,4 +1,8 @@
-// Button and operation description class for "E" hex digit button.
+/*
+
+Button and operation description class for "E" hex digit button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

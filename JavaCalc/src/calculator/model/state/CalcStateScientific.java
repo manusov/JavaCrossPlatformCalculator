@@ -1,4 +1,8 @@
-// Data MODEL for SCIENTIFIC calculator,
+/*
+
+Data MODEL for SCIENTIFIC calculator,
+
+*/
 
 package calculator.model.state;
 

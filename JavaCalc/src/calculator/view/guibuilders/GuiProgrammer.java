@@ -1,4 +1,8 @@
-// GUI description for PROGRAMMER calculator.
+/*
+
+GUI description for PROGRAMMER calculator.
+
+*/
 
 package calculator.view.guibuilders;
 

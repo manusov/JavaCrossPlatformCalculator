@@ -1,4 +1,8 @@
-// Fabric for calculator keyboard panel.
+/*
+
+Fabric for calculator keyboard panel.
+
+*/
 
 package calculator.controller;
 

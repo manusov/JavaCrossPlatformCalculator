@@ -1,4 +1,8 @@
-// GUI description for SCIENTIFIC calculator.
+/*
+
+GUI description for SCIENTIFIC calculator.
+
+*/
 
 package calculator.view.guibuilders;
 

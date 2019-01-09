@@ -1,4 +1,8 @@
-// Action handler for root menu: application exit.
+/*
+
+Action handler for root menu: application exit.
+
+*/
 
 package calculator.view.rootmenu;
 

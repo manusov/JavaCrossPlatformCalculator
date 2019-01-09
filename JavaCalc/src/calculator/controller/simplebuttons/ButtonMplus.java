@@ -1,4 +1,8 @@
-// Button and operation description class for "M+" (Memory plus) button.
+/*
+
+Button and operation description class for "M+" (Memory plus) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

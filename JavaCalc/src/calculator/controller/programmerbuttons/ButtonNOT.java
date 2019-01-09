@@ -1,4 +1,8 @@
-// Button and operation description class for "NOT" button.
+/*
+
+Button and operation description class for "NOT" button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

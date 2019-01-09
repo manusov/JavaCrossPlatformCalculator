@@ -83,6 +83,7 @@ FIRST STEPS (ONE WEEK):
    Integrate to CPUID v0.53 ?
    Integrate to Graphs Drawings ?
 
+   This project can be prepared for integration to Benchmarks Integrator.
 
 */
 

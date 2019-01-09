@@ -1,4 +1,8 @@
-// Button and operation description class for "CTG" button.
+/*
+
+Button and operation description class for "CTG" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

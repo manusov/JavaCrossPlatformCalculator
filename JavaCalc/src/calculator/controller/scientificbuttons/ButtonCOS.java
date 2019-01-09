@@ -1,4 +1,8 @@
-// Button and operation description class for "COS" button.
+/*
+
+Button and operation description class for "COS" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

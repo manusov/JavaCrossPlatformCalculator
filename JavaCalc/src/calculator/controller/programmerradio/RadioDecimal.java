@@ -1,4 +1,8 @@
-// Radio button description class for "Decimal" radio button.
+/*
+
+Radio button description class for "Decimal" radio button.
+
+*/
 
 package calculator.controller.programmerradio;
 

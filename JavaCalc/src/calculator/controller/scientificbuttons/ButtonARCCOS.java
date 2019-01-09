@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCCOS" button.
+/*
+
+Button and operation description class for "ARCCOS" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

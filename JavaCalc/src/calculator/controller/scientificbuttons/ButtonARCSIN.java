@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCSIN" button.
+/*
+
+Button and operation description class for "ARCSIN" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

@@ -1,10 +1,12 @@
-// Operations set for PROGRAMMER calculator model.
+/*
+
+Operations set for PROGRAMMER calculator model.
+
+*/
 
 package calculator.model.core;
 
-import static calculator.model.core.FloatPrintUtil.printCorrected;
 import static calculator.model.core.FloatPrintUtil.printCorrectedBigDecimal;
-import calculator.model.functions.CalcArgument.CalcModes;
 import calculator.model.functions.CalcArgument.RadixRadio;
 import calculator.model.functions.MathFunctionsProgrammer;
 import calculator.model.state.CalcStateProgrammer;

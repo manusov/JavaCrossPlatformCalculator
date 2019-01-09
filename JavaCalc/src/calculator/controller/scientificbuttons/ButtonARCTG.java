@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCTG" button.
+/*
+
+Button and operation description class for "ARCTG" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

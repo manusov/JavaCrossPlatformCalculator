@@ -1,4 +1,8 @@
-// Button and operation description class for "OR" button.
+/*
+
+Button and operation description class for "OR" button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

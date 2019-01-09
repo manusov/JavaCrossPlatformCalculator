@@ -1,4 +1,8 @@
-// GUI panel and it components for SCIENTIFIC calculator keyboard.
+/*
+
+GUI panel and it components for SCIENTIFIC calculator keyboard.
+
+*/
 
 package calculator.controller;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "+" (Plus) button.
+/*
+
+Button and operation description class for "+" (Plus) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

@@ -1,5 +1,9 @@
-// GUI panel and it components for select input radix mode,
-// used by PROGRAMMER calculator.
+/*
+
+GUI panel and it components for select input radix mode,
+used by PROGRAMMER calculator mode.
+
+*/
 
 package calculator.controller;
 
@@ -24,6 +28,5 @@ public boolean getFlag()
     {
     return marker.isSelected();
     }
-
 
 }

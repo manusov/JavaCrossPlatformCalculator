@@ -1,4 +1,8 @@
-// Button and operation description class for "SEC" button.
+/*
+
+Button and operation description class for "SEC" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

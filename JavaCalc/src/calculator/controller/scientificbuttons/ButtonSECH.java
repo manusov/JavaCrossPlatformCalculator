@@ -1,4 +1,8 @@
-// Button and operation description class for "SECH" button.
+/*
+
+Button and operation description class for "SECH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "COSEC" button.
+/*
+
+Button and operation description class for "COSEC" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

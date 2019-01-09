@@ -1,4 +1,8 @@
-// Button and operation description class for "/" (Divide) button.
+/*
+
+Button and operation description class for "/" (Divide) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

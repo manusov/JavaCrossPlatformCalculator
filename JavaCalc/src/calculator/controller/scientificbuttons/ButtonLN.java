@@ -1,4 +1,8 @@
-// Button and operation description class for "LN" button.
+/*
+
+Button and operation description class for "LN" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

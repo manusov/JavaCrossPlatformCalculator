@@ -1,4 +1,8 @@
-// Button and operation description class for "." (Decimal point) button.
+/*
+
+Button and operation description class for "." (Decimal point) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

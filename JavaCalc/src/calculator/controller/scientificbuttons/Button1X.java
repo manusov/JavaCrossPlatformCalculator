@@ -1,4 +1,8 @@
-// Button and operation description class for "1/X" button.
+/*
+
+Button and operation description class for "1/X" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

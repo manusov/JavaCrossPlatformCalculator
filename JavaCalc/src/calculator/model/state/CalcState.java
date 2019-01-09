@@ -1,8 +1,12 @@
-// Data MODEL for SIMPLE calculator,
-// This MODEL used and modified by CONTROLLER,
-// but with incapsulation, via CalcCore, not directly,
-// This MODEL visualized by VIEW,
-// but with incapsulation, via CalcCore, not directly.
+/*
+
+Data MODEL for SIMPLE calculator,
+This MODEL used and modified by CONTROLLER,
+but with incapsulation, via CalcCore, not directly,
+This MODEL visualized by VIEW,
+but with incapsulation, via CalcCore, not directly.
+
+*/
 
 package calculator.model.state;
 

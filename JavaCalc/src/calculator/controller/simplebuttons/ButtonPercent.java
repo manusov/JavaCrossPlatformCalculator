@@ -1,4 +1,8 @@
-// Button and operation description class for "%" (Percent) button.
+/*
+
+Button and operation description class for "%" (Percent) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

@@ -1,4 +1,8 @@
-// GUI panel and it components for SIMPLE calculator keyboard.
+/*
+
+GUI panel and it components for SIMPLE calculator keyboard.
+
+*/
 
 package calculator.controller;
 

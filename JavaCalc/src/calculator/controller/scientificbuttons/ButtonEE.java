@@ -1,4 +1,8 @@
-// Button and operation description class for "E" button.
+/*
+
+Button and operation description class for "E" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

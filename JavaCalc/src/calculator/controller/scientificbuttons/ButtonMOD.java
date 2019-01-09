@@ -1,4 +1,8 @@
-// Button and operation description class for "MOD" button.
+/*
+
+Button and operation description class for "MOD" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

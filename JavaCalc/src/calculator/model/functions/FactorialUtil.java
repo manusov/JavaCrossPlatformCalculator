@@ -1,4 +1,8 @@
-// Helper method for factorial calculation.
+/*
+
+Helper method for factorial calculation.
+
+*/
 
 package calculator.model.functions;
 

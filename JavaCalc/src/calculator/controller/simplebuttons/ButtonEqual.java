@@ -1,4 +1,8 @@
-// Button and operation description class for "=" (Equal) button.
+/*
+
+Button and operation description class for "=" (Equal) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "TH" button.
+/*
+
+Button and operation description class for "TH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

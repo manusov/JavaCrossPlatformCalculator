@@ -1,6 +1,10 @@
-// Mathematics functions calculating methods for SCIENTIFIC calculator model.
-// Factorial calculated as big decimal, but numbers lost possible,
-// TODO: convert all operations to Universal Big Decimal Core (UBDC).
+/*
+
+Mathematics functions calculating methods for SCIENTIFIC calculator model.
+Factorial calculated as big decimal, but numbers lost possible,
+TODO: convert all operations to Universal Big Decimal Core (UBDC).
+
+*/
 
 package calculator.model.functions;
 
@@ -126,6 +130,5 @@ public class MathFunctionsScientific extends MathFunctions
         default:    { super.twoArgMath(carg);                       break; }
         }
     }
-
 
 }

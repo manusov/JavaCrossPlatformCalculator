@@ -1,4 +1,8 @@
-// Mathematics functions calculating methods for PROGRAMMER calculator model.
+/*
+
+Mathematics functions calculating methods for PROGRAMMER calculator model.
+
+*/
 
 package calculator.model.functions;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "SQRT" (Square root) button.
+/*
+
+Button and operation description class for "SQRT" (Square root) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

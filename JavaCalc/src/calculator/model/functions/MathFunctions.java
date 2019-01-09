@@ -1,4 +1,8 @@
-// Mathematics functions calculating methods for SIMPLE calculator model.
+/*
+
+Mathematics functions calculating methods for SIMPLE calculator model.
+
+*/
 
 package calculator.model.functions;
 

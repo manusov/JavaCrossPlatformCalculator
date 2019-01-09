@@ -1,4 +1,8 @@
-// Radio button description class for "Binary" radio button.
+/*
+
+Radio button description class for "Binary" radio button.
+
+*/
 
 package calculator.controller.programmerradio;
 

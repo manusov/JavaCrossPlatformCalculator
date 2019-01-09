@@ -1,4 +1,8 @@
-// Action handler for map PC keyboard keys to calculator keyboard buttons.
+/*
+
+Action handler for map PC keyboard keys to calculator keyboard buttons.
+
+*/
 
 package calculator.controller;
 

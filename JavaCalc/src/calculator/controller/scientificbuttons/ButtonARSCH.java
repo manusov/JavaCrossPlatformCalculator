@@ -1,4 +1,8 @@
-// Button and operation description class for "ARSCH" button.
+/*
+
+Button and operation description class for "ARSCH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

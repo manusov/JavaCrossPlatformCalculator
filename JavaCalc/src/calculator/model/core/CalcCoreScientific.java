@@ -1,4 +1,8 @@
-// Operations set for SCIENTIFIC calculator model,
+/*
+
+Operations set for SCIENTIFIC calculator model,
+
+*/
 
 package calculator.model.core;
 

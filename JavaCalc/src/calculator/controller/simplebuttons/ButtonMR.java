@@ -1,4 +1,8 @@
-// Button and operation description class for "M" (Memory recall) button.
+/*
+
+Button and operation description class for "M" (Memory recall) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

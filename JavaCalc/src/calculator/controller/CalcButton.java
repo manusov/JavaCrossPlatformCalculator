@@ -1,4 +1,8 @@
-// Parent class for buttons and operations description classes.
+/*
+
+Parent class for buttons and operations description classes.
+
+*/
 
 package calculator.controller;
 

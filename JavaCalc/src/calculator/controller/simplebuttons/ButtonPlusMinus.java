@@ -1,4 +1,8 @@
-// Button and operation description class for "+/-" (Change sign) button.
+/*
+
+Button and operation description class for "+/-" (Change sign) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

@@ -1,4 +1,8 @@
-// Data MODEL for PROGRAMMER calculator,
+/*
+
+Data MODEL for PROGRAMMER calculator,
+
+*/
 
 package calculator.model.state;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "SH" button.
+/*
+
+Button and operation description class for "SH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

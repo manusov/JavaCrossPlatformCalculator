@@ -1,4 +1,8 @@
-// Fabric for calculator core.
+/*
+
+Fabric for calculator core.
+
+*/
 
 package calculator.model.core;
 

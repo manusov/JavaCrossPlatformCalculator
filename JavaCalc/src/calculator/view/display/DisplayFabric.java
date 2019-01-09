@@ -1,4 +1,8 @@
-// Fabric for calculator display panel.
+/*
+
+Fabric for calculator display panel.
+
+*/
 
 package calculator.view.display;
 

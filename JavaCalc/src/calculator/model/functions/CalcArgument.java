@@ -1,5 +1,9 @@
-// Mathematics operation argument full representation, used for
-// separate calculator control and fundamental operations support.
+/*
+
+Mathematics operation argument full representation, used for
+separate calculator control and fundamental operations support.
+
+*/
 
 package calculator.model.functions;
 

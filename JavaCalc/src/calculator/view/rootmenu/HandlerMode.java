@@ -1,4 +1,8 @@
-// Action handler for root menu: calculator mode select.
+/*
+
+Action handler for root menu: calculator mode select.
+
+*/
 
 package calculator.view.rootmenu;
 

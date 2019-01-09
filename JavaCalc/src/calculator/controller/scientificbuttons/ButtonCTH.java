@@ -1,4 +1,8 @@
-// Button and operation description class for "CTH" button.
+/*
+
+Button and operation description class for "CTH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

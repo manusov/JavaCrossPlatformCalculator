@@ -1,4 +1,8 @@
-// GUI panel and it components for SCIENTIFIC calculator display.
+/*
+
+GUI panel and it components for SCIENTIFIC calculator display.
+
+*/
 
 package calculator.view.display;
 

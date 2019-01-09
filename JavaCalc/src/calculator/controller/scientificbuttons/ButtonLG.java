@@ -1,4 +1,8 @@
-// Button and operation description class for "LG" button.
+/*
+
+Button and operation description class for "LG" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

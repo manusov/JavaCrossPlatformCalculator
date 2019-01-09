@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCH" button.
+/*
+
+Button and operation description class for "ARCH" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

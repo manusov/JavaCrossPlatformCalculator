@@ -1,4 +1,8 @@
-// Radio button description class for "Degrees" radio button.
+/*
+
+Radio button description class for "Degrees" radio button.
+
+*/
 
 package calculator.controller.scientificradio;
 

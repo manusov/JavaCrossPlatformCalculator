@@ -1,4 +1,8 @@
-// Button and operation description class for "7" button.
+/*
+
+Button and operation description class for "7" button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

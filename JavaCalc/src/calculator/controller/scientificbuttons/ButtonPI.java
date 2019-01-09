@@ -1,4 +1,8 @@
-// Button and operation description class for "PI" button.
+/*
+
+Button and operation description class for "PI" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "MC" (Memory clear) button.
+/*
+
+Button and operation description class for "MC" (Memory clear) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

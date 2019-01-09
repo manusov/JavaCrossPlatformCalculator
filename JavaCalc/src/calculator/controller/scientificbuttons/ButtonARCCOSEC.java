@@ -1,4 +1,8 @@
-// Button and operation description class for "ARCCOSEC" button.
+/*
+
+Button and operation description class for "ARCCOSEC" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

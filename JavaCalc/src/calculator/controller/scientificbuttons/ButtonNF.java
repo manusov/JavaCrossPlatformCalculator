@@ -1,4 +1,8 @@
-// Button and operation description class for "n!" button.
+/*
+
+Button and operation description class for "n!" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

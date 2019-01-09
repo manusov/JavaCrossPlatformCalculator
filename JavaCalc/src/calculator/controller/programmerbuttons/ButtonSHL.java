@@ -1,4 +1,8 @@
-// Button and operation description class for "SHL" button.
+/*
+
+Button and operation description class for "SHL" button.
+
+*/
 
 package calculator.controller.programmerbuttons;
 

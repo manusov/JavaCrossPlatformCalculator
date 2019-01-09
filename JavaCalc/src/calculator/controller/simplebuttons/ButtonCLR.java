@@ -1,4 +1,8 @@
-// Button and operation description class for "C" (Clear) button.
+/*
+
+Button and operation description class for "C" (Clear) button.
+
+*/
 
 package calculator.controller.simplebuttons;
 

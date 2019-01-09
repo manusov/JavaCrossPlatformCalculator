@@ -1,6 +1,10 @@
-// Operations set for SIMPLE calculator model,
-// this operations set can be used by some different controllers, 
-// depend on calculator keyboard type.
+/*
+
+Operations set for SIMPLE calculator model,
+this operations set can be used by some different controllers, 
+depend on calculator keyboard type.
+
+*/
 
 package calculator.model.core;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "EXP" button.
+/*
+
+Button and operation description class for "EXP" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 

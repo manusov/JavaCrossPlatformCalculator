@@ -1,4 +1,8 @@
-// GUI panel and it components for PROGRAMMER calculator keyboard.
+/*
+
+GUI panel and it components for PROGRAMMER calculator keyboard.
+
+*/
 
 package calculator.controller;
 

@@ -1,4 +1,8 @@
-// GUI description for SIMPLE calculator.
+/*
+
+GUI description for SIMPLE calculator.
+
+*/
 
 package calculator.view.guibuilders;
 

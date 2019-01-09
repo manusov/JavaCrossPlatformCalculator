@@ -1,4 +1,8 @@
-// Parent class for radio buttons description classes.
+/*
+
+Parent class for radio buttons description classes.
+
+*/
 
 package calculator.controller;
 

@@ -1,4 +1,8 @@
-// Button and operation description class for "X power Y" button.
+/*
+
+Button and operation description class for "X power Y" button.
+
+*/
 
 package calculator.controller.scientificbuttons;
 
