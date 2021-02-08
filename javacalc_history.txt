@@ -1,0 +1,17 @@
+JavaCalc v1.00.00 (February, 08, 2021)
+1) Changed web link.
+2) Bug fix: CE key works as CLR key.
+3) Bug fix: exception when click EQUAL without operations at PROGRAMMER mode.
+4) Bug fix: exception when click EQUAL and twice click some two-operand operation.
+5) Bug fix: exception when click EQUAL and click some one-operand operation.
+6) Internal changes at java code.
+
+Known bugs:
+1) Bug with Math.PI approximation, sine (180 degrees) > 0.
+Trigonometric operations depends on Math.PI approximation.
+
+
+Previous versions:
+v0.35 first build at JDK8 mode (advanced)
+v0.34 last build at JDK7 mode (legacy).
+
