@@ -15,7 +15,7 @@ public class ButtonDivide extends CalcButton
 {
 private final static String NAME = "<html>&#247";
 private final static String TEXT = "divide";
-private final static int[]  KEYS = { KeyEvent.VK_DIVIDE };
+private final static int[]  KEYS = { KeyEvent.VK_DIVIDE , KeyEvent.VK_SLASH };
 @Override public String getName() { return NAME; }
 @Override public String getText() { return TEXT; }
 @Override public int[] getKeys()  { return KEYS; }

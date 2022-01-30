@@ -15,7 +15,7 @@ public class ButtonMinus extends CalcButton
 {
 private final static String NAME = "-";
 private final static String TEXT = "subtract";
-private final static int[]  KEYS = { KeyEvent.VK_SUBTRACT };
+private final static int[]  KEYS = { KeyEvent.VK_SUBTRACT , KeyEvent.VK_MINUS };
 @Override public String getName() { return NAME; }
 @Override public String getText() { return TEXT; }
 @Override public int[] getKeys()  { return KEYS; }

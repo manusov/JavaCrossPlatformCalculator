@@ -3,7 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/3-java/project_calculator/actual/src/calculator/Calculator.java</file>
+            <file>file:/C:/3-java/Project_calculator/actual/src/calculator/view/about/About.java</file>
+            <file>file:/C:/3-java/Project_calculator/actual/src/calculator/controller/simplebuttons/ButtonPlus.java</file>
+            <file>file:/C:/3-java/Project_calculator/actual/src/calculator/Calculator.java</file>
+            <file>file:/C:/3-java/Project_calculator/actual/src/calculator/controller/simplebuttons/ButtonMinus.java</file>
+            <file>file:/C:/3-java/Project_calculator/actual/src/calculator/controller/simplebuttons/ButtonDivide.java</file>
         </group>
     </open-files>
 </project-private>
